@@ -1,4 +1,7 @@
 # joes-pizza
-Starter code for the Yr 11 Digital Solutions FA3 assignment.
+## Assignment
+This repository contains starter code for the Yr 11 Digital Solutions FA3 assignment. See your assignment task sheet and the Technical Proposal document for details of the task.
 
-Use this to begin your project. Modify the template as required.
+
+## Getting Started
+In Visual Studio Code
